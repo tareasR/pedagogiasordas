@@ -160,7 +160,7 @@ window.IIEBSOR_PROGRAM = [
     "end": "14:00",
     "type": "Taller para docentes",
     "title": "Diseño de aplicaciones para Sordos",
-    "participants": "Rafael Cáceres Rojano"
+    "participants": "José Rafael Rojano Cáceres"
   },
   {
     "id": "act-19",

@@ -2,12 +2,12 @@
 window.IIEBSOR_ORGANIZATION = {
   "internal": {
     "name": "Organizador Interno",
-    "description": "Información institucional pendiente de confirmar.",
-    "logo": ""
+    "description": "Dr. José Rafael Rojano Cáceres.",
+    "logo": "uv-logo.jpeg"
   },
   "external": {
     "name": "Organizador Externo",
-    "description": "Información institucional pendiente de confirmar.",
-    "logo": ""
+    "description": "Mtro. Hector Francisco Lara Tronco.",
+    "logo": "iiebsor-logo.png"
   }
 };
