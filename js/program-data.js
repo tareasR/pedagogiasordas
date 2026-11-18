@@ -1,4 +1,4 @@
-/* Datos transcritos del PDF original. Edite aquí para actualizar el programa. */
+/* Programa actualizado a partir del Excel proporcionado (noviembre de 2026). */
 window.IIEBSOR_PROGRAM = [
   {
     "id": "act-01",
@@ -21,23 +21,14 @@ window.IIEBSOR_PROGRAM = [
   {
     "id": "act-03",
     "day": 24,
-    "start": "11:00",
-    "end": "11:45",
-    "type": "Ponencia complementaria",
-    "title": "Veracruz en nuestras manos, identidad que une",
-    "participants": "Laura Edith Herrera Hernández, Helio José Tienda Aguilar y Landy Margarita Tienda Aguilar"
+    "start": "12:00",
+    "end": "13:30",
+    "type": "Taller para niñas y niños",
+    "title": "Comunidad Sorda Infantil. Convivencia y juegos",
+    "participants": "Adultos, Modelos Lingüísticos y Docentes Sordos señantes"
   },
   {
     "id": "act-04",
-    "day": 24,
-    "start": "11:45",
-    "end": "13:15",
-    "type": "Taller para niñas y niños",
-    "title": "Introducción a los huertos urbanos",
-    "participants": "Esteban Javier Tenorio Vázquez"
-  },
-  {
-    "id": "act-05",
     "day": 24,
     "start": "12:00",
     "end": "13:30",
@@ -46,7 +37,7 @@ window.IIEBSOR_PROGRAM = [
     "participants": "Miriam Mendoza Trujillo"
   },
   {
-    "id": "act-06",
+    "id": "act-05",
     "day": 24,
     "start": "13:40",
     "end": "14:00",
@@ -55,7 +46,7 @@ window.IIEBSOR_PROGRAM = [
     "participants": "Alexa Vergara Mendoza"
   },
   {
-    "id": "act-07",
+    "id": "act-06",
     "day": 24,
     "start": "16:00",
     "end": "17:30",
@@ -64,7 +55,7 @@ window.IIEBSOR_PROGRAM = [
     "participants": "Cosme Casas Pensado"
   },
   {
-    "id": "act-08",
+    "id": "act-07",
     "day": 24,
     "start": "16:00",
     "end": "17:30",
@@ -73,7 +64,7 @@ window.IIEBSOR_PROGRAM = [
     "participants": "Alejandra González Hernández"
   },
   {
-    "id": "act-09",
+    "id": "act-08",
     "day": 25,
     "start": "09:00",
     "end": "10:00",
@@ -82,7 +73,7 @@ window.IIEBSOR_PROGRAM = [
     "participants": "Raúl Aguilera Zárate"
   },
   {
-    "id": "act-10",
+    "id": "act-09",
     "day": 25,
     "start": "10:30",
     "end": "11:15",
@@ -91,16 +82,7 @@ window.IIEBSOR_PROGRAM = [
     "participants": "Luz María Marín Vera"
   },
   {
-    "id": "act-11",
-    "day": 25,
-    "start": "11:00",
-    "end": "12:30",
-    "type": "Taller para niñas y niños",
-    "title": "Comunidad Sorda Infantil. Convivencia y juegos",
-    "participants": "Adultos, Modelos Lingüísticos y Docentes Sordos señantes"
-  },
-  {
-    "id": "act-12",
+    "id": "act-10",
     "day": 25,
     "start": "11:30",
     "end": "12:45",
@@ -109,7 +91,7 @@ window.IIEBSOR_PROGRAM = [
     "participants": "Guadalupe Platas Fernández, Shealyn Jetseni Patraca Orozco, Aldo Efraín Jácome Colorado, Isabel Torres Pérez, Ivonne Saraí Monte Sarmina y Farid Báez Sosa"
   },
   {
-    "id": "act-13",
+    "id": "act-11",
     "day": 25,
     "start": "13:00",
     "end": "13:20",
@@ -118,7 +100,16 @@ window.IIEBSOR_PROGRAM = [
     "participants": "Ingrid Diane Gamboa Morales"
   },
   {
-    "id": "act-14",
+    "id": "act-12",
+    "day": 25,
+    "start": "13:30",
+    "end": "14:15",
+    "type": "Ponencia complementaria",
+    "title": "Derecho a la educación de las personas Sordas",
+    "participants": "Adrián Galicia Rendón"
+  },
+  {
+    "id": "act-13",
     "day": 25,
     "start": "15:00",
     "end": "16:30",
@@ -127,13 +118,22 @@ window.IIEBSOR_PROGRAM = [
     "participants": "Alejandra González Hernández"
   },
   {
-    "id": "act-15",
+    "id": "act-14",
     "day": 25,
     "start": "15:00",
     "end": "16:30",
     "type": "Taller para docentes",
     "title": "Educación física: en señas nos movemos",
     "participants": "Ana Karen López Flores y Jesús Enrique Palmeros Jiménez"
+  },
+  {
+    "id": "act-15",
+    "day": 25,
+    "start": "16:45",
+    "end": "17:30",
+    "type": "Ponencia complementaria",
+    "title": "Veracruz en nuestras manos, identidad que une",
+    "participants": "Laura Edith Herrera Hernández, Helio José Tienda Aguilar y Landy Margarita Tienda Aguilar"
   },
   {
     "id": "act-16",
@@ -160,7 +160,7 @@ window.IIEBSOR_PROGRAM = [
     "end": "14:00",
     "type": "Taller para docentes",
     "title": "Diseño de aplicaciones para Sordos",
-    "participants": "José Rafael Rojano Cáceres"
+    "participants": "José Rafael Rojano Cáceres y Andrés Eduardo Fuentes Cortazar"
   },
   {
     "id": "act-19",
@@ -178,7 +178,7 @@ window.IIEBSOR_PROGRAM = [
     "end": "17:00",
     "type": "Taller para docentes",
     "title": "Diseño de Avatares para la documentación de la LSM",
-    "participants": "Braulio Juárez Pedraza"
+    "participants": "Braulio Juárez Pedraza y José Rafael Rojano Cáceres"
   },
   {
     "id": "act-21",
@@ -196,7 +196,7 @@ window.IIEBSOR_PROGRAM = [
     "end": "17:30",
     "type": "Documentación pedagogías Sordas",
     "title": "Resumen experiencial del Encuentro",
-    "participants": "Equipo de documentalistas"
+    "participants": "Equipo de investigadores"
   },
   {
     "id": "act-23",
