@@ -2,7 +2,7 @@
    Los nombres institucionales pueden sustituirse en la lista cuando se confirmen. */
 (() => {
   'use strict';
-  const sponsors = Array.from({length: 8}, (_, i) => ({
+  const sponsors = Array.from({length: 9}, (_, i) => ({
     name: `Patrocinador ${i + 1}`,
     image: `assets/sponsors/patrocinador${i + 1}.png`
   }));
